@@ -43,8 +43,9 @@ Compose a concise report elucidating the work done during this assignment.
 
 
 ## Structure of the Submission
-- A single jupyter notebook. Simply follow the notebook.
+- A jupyter notebook. Simply follow the notebook.
 - Usage of markdowns to explain the code.
+- A report (pdf file)
 
 ## Execution Instructions
 - Pulsar package required 
@@ -53,10 +54,6 @@ Compose a concise report elucidating the work done during this assignment.
 - Arthur Stievenard
 - Maxime Outteryck
 - Benjamin Yiu
-
-
-## Code Examples
-- Relevant code snippets from the notebook.
 
 ## Contact
 - arthur.stievenard@epita.fr
